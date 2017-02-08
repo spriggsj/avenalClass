@@ -1,4 +1,4 @@
-# avenalClass 
+# Avenal Class 
 Pr jects for Avenal students 
 
 # basics of HTML
