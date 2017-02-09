@@ -1,5 +1,6 @@
-# Avenal Class 
-Pr jects for Avenal students 
+# Introduction To Web Development & Entrepreneurship Class
+Projects for Avenal students 
+# Set up Atom and install packages
 
 # basics of HTML
 
