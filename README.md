@@ -12,10 +12,12 @@
   
 # Week Two
    Day 3
-   More HTML practice introduction to CSS
+   Github commands practice and cloning, building repo's, git commands, git git git
    
    Day 4
-
+   More HTML practice introduction to CSS
+   positioning 
+   
 # Week Three
    Day 5
    Day 6
