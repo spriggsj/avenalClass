@@ -5,6 +5,7 @@
   Introductions and class overview
   Set up Atom and install packages
   Create github accounts
+  git hub practice https://try.github.io/levels/1/challenges/1
   
   Day 2
   Introduction to HTML
