@@ -4,10 +4,11 @@
   Day 1
   Introductions and class overview
   Set up Atom and install packages
-  Create github accounts
-  git hub practice https://try.github.io/levels/1/challenges/1
+  Startup Basics / Marketing / Sales / Branding 
   
   Day 2
+  Create github accounts
+  git hub practice https://try.github.io/levels/1/challenges/1
   Introduction to HTML
   elements utf8 doctype etc
   
@@ -15,7 +16,7 @@
    Day 3
    Github commands practice and cloning, building repo's, git commands, git git git
    
-   Day 4 Startup Basics / Marketing / Sales / Branding 
+   Day 4 
    
    
 # Week Three
