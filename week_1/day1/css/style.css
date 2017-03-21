@@ -1,0 +1,82 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+    border-radius: 90px;
+}
+
+.active {
+    background-color: #6877ff;
+    border-radius: 90px;
+}
+
+.divone{
+  background-color: rgb(104, 119, 255);
+  width: 700px;
+    border: 25px;
+    padding: 25px;
+    margin: 25px;
+}
+.div2{
+  background-image: url(/Users/donaldspriggs/Desktop/html_class/week_1/day1/img/city-museum-988773_1280.jpg);
+  width: 600px;
+    border: 25px;
+    padding: 25px;
+    margin: 25px;
+}
+.whitebox{
+  background-color: grey;
+
+  width: 500px;
+  height: 400px;
+    border: 25px;
+    padding: 25px;
+    margin: 25px;
+}
+.div4{
+
+  background-color: rgb(0, 255, 255);
+  color: black;
+    width: 200px;
+    height: 100px;
+    border: 25px;
+    padding: 25px;
+    margin: 25px;
+}
+.div5{
+
+  background-color: rgb(104, 119, 255);
+  width: 200px;
+  height: 100px;
+    border: 25px;
+    padding: 25px;
+     margin: 25px;
+    border-radius: 90px;
+}
+.overview{
+  background-color: #d8d8d8;
+  width: 550px;
+  padding: 25px;
+  margin-left:  55px;
+  margin-top: 25px;
+  border: 25px;
+  border-radius: 50px;
+}
